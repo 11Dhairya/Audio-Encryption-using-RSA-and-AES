@@ -1,2 +1,2 @@
-# Audio-Encryption-using-RSA-and-AES
-INFORMATION SECURITY -> An audio Encryption/Decryption system using RSA and AES algorithms.
+# Audio-Encryption
+Audio encryption &amp; decryption with the help of RSA and AES algorithm
